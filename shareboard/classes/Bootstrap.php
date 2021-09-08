@@ -18,7 +18,7 @@ class Bootstrap{
 		}
 	}
 
-	public function createController(){ //Check ob der Controller läuft
+	public function createController(){ //Check ob der Controller läuft (Fertiger Baublock)
 		// Check Class
 		if(class_exists($this->controller)){
 			$parents = class_parents($this->controller);
