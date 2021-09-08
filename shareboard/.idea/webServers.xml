@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fad3b9c7-d757-45fb-8dc3-1aad8b9fc6ab" name="TimisServer" url="http://116.202.23.18">
+        <fileTransfer accessType="SFTP" host="116.202.23.18" port="22" sshConfigId="8dcde964-d311-4b5d-aeb8-5f89ee4f94ee" sshConfig="rieckt@116.202.23.18:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

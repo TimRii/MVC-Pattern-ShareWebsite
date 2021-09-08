@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="116.202.23.18" id="8dcde964-d311-4b5d-aeb8-5f89ee4f94ee" keyPath="C:\Users\timvi\OneDrive\Desktop\KeysDev07_TimisServer\PrivateKey07.ppk" port="22" nameFormat="DESCRIPTIVE" username="rieckt" />
+    </configs>
+  </component>
+</project>
